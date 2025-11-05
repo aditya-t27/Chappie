@@ -1,0 +1,1 @@
+export const rightPanelMenuItem=["contact , Business Details"];
